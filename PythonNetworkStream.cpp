@@ -1,5 +1,5 @@
 // search:
 DynamicSizePacketHeader.size = PacketType.iPacketSize;
 
-// commented or delete it
+// comment it or delete it
 // that's all  have fun.
